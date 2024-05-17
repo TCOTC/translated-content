@@ -986,10 +986,6 @@
     "modified": "2020-05-29T09:05:50.440Z",
     "contributors": ["mriabokliach", "EternalCosmos"]
   },
-  "Glossary/Simple_header": {
-    "modified": "2019-03-18T21:32:57.580Z",
-    "contributors": ["Skinny-Hunter"]
-  },
   "Glossary/Sloppy_mode": {
     "modified": "2019-01-17T00:16:18.150Z",
     "contributors": ["anastasiya-solodkaya", "pk.prog"]
@@ -7227,6 +7223,10 @@
     "modified": "2019-03-18T21:20:36.516Z",
     "contributors": ["AndreiSoroka"]
   },
+  "Web/API/Window/crypto": {
+    "modified": "2019-03-23T22:55:57.909Z",
+    "contributors": ["pinal"]
+  },
   "Web/API/Window/devicePixelRatio": {
     "modified": "2020-10-15T21:52:27.387Z",
     "contributors": ["zhvirblis", "Khrapin", "pashutk"]
@@ -7769,10 +7769,6 @@
   "Web/API/console/warn_static": {
     "modified": "2020-10-15T22:00:31.979Z",
     "contributors": ["ekirpichyov", "ArtemPolanskiy"]
-  },
-  "Web/API/crypto_property": {
-    "modified": "2019-03-23T22:55:57.909Z",
-    "contributors": ["pinal"]
   },
   "Web/API/fetch": {
     "modified": "2020-10-15T22:06:28.491Z",
@@ -15965,6 +15961,10 @@
   "WebAssembly/Using_the_JavaScript_API": {
     "modified": "2019-06-12T07:08:20.267Z",
     "contributors": ["deadblackclover", "vkorniiko"]
+  },
+  "conflicting/Glossary/CORS-safelisted_request_header": {
+    "modified": "2019-03-18T21:32:57.580Z",
+    "contributors": ["Skinny-Hunter"]
   },
   "conflicting/Web/HTML/Element/img": {
     "modified": "2019-03-18T20:41:47.756Z",
